@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CUSDK", "CUSDK\CUSDK.csproj", "{C5382DEC-546F-4A54-B5D9-389FD171AE83}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestApp", "TestApp\TestApp.csproj", "{C9A3C7F9-E150-4380-AC17-22F1DF291AE6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListenerApp", "ListenerApp\ListenerApp.csproj", "{ECC0EF92-A611-4D85-99DD-9754BE6AD699}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5382DEC-546F-4A54-B5D9-389FD171AE83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5382DEC-546F-4A54-B5D9-389FD171AE83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5382DEC-546F-4A54-B5D9-389FD171AE83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5382DEC-546F-4A54-B5D9-389FD171AE83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9A3C7F9-E150-4380-AC17-22F1DF291AE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9A3C7F9-E150-4380-AC17-22F1DF291AE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9A3C7F9-E150-4380-AC17-22F1DF291AE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9A3C7F9-E150-4380-AC17-22F1DF291AE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECC0EF92-A611-4D85-99DD-9754BE6AD699}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECC0EF92-A611-4D85-99DD-9754BE6AD699}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECC0EF92-A611-4D85-99DD-9754BE6AD699}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECC0EF92-A611-4D85-99DD-9754BE6AD699}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = CUSDK\CUSDK.csproj
+	EndGlobalSection
+EndGlobal
