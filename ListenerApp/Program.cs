@@ -10,7 +10,7 @@
 /// to test the source code thoroughly before relying on it. The user must assume the entire 
 /// risk of using the source code.
 /// 
-/// Camiloo Limited grants you a nonexclusive copyright license to use all programming code examples 
+/// ChannelUnity Limited grants you a nonexclusive copyright license to use all programming code examples 
 /// from which you can generate similar function tailored to your own specific needs.
 /// </summary>
 

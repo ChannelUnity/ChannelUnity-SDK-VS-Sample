@@ -43,6 +43,7 @@
     <Compile Include="ProductAttribute.cs" />
     <Compile Include="Product.cs" />
     <Compile Include="Notification.cs" />
+    <Compile Include="Order.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>
